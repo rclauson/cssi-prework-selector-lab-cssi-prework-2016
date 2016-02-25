@@ -1,4 +1,11 @@
 'use-strict';
+
+/* you can return a selector by using the synax: return $('selector'). 
+function pSelector(){
+  return $('p');
+}
+*/
+
 function h1Selector(){
   return $('h1');
 }
@@ -8,7 +15,7 @@ function liInOlSelector(){
 }
 
 function linkSelector(){
-  return $('#box4.box5 a');
+  return $('#my-id.da-class a');
 }
 
 function imageSelector(){

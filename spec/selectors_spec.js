@@ -24,7 +24,7 @@ describe('Selectors', function() {
 
   it('#imageSelector should an image that has the alt text equal to "cat sleeping"', function() {
     expect(imageSelector().length).toBe(1);
-    expect(imageSelector().attr("src")).toEqual("images/cat.jpg")
+    expect(imageSelector().attr("src")).toEqual("img/sleeping-cat.jpg")
   });
 
   it('#checkboxInputSelector should select all checkbox inputs', function() {
