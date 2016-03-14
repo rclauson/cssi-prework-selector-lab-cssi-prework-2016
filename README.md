@@ -4,7 +4,7 @@
 + Write jQuery selectors to select different HTML elements
 
 ## Getting Started
-You have stumbled upon an HTML site written by a middle school girl from the early 2000's. This is a perfect testing ground for your jQuery skills. 
+You have stumbled upon an HTML site written by a middle school girl from the early 2000s. This is a perfect testing ground for your jQuery skills. 
 
 In js/selectors.js write the code necessary to select 5 different elements from the index.html page. There are tests to keep you on track!
 
